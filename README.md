@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**a7med-3li-k/a7med-3li-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+📱 Flutter & Android Developer  
+🌐 Laravel Backend Developer  
+🤖 Interested in Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a Computer Science student passionate about software development and building real-world applications.
+
+I enjoy developing mobile applications, backend systems, and educational platforms while continuously learning new technologies.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Flutter & Dart
+- Android Development
+- Java
+- PHP & Laravel
+- Firebase
+- MySQL
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+🚧 Projects will be added soon.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub
+- Email
+
+---
+
+⭐ Thanks for visiting my profile!
